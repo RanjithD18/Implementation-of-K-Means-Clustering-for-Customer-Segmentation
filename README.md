@@ -60,17 +60,17 @@ plt.title("Customer Segments")
 ## Output:
 Data.head:
 
-![K Means Clustering for Customer Segmentation]((https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/1.png)
+![K Means Clustering for Customer Segmentation](https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/1.png)
 
 Data.info:
 
-![K Means Clustering for Customer Segmentation]((https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/2.png)
+![K Means Clustering for Customer Segmentation](https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/2.png)
 
 
-![K Means Clustering for Customer Segmentation]((https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/3.png)
+![K Means Clustering for Customer Segmentation](https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/3.png)
 
 
-![K Means Clustering for Customer Segmentation]((https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/4.png)
+![K Means Clustering for Customer Segmentation](https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/4.png)
 
 
 ## Result:
