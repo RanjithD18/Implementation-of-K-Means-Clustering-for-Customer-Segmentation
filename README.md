@@ -62,8 +62,10 @@ plt.title("Customer Segments")
 ~~~
 
 ## Output:
-
-
-
+Data Head:<br>
+![output](https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/1.png)<br>Data Information:<br>
+![output](https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/1.png)<br>Plot - Elbow Method:<br>
+![output](https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/1.png)<br>Cluster:<br>
+![output](https://github.com/RanjithD18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/1.png)<br>
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
